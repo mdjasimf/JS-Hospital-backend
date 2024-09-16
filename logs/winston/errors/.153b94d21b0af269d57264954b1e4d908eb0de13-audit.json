@@ -6,46 +6,6 @@
     "auditLog": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\.153b94d21b0af269d57264954b1e4d908eb0de13-audit.json",
     "files": [
         {
-            "date": 1724642252814,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-08-09-error.log",
-            "hash": "25f2f3d2dd5d92bdc08d315d5082182c230dbfe0fe84018b66bce00565720a28"
-        },
-        {
-            "date": 1724763710922,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-27-08-19-error.log",
-            "hash": "fce6217fb8365f73cb81a6ca75bc54378489dcc2396404f0eb97668da79731e4"
-        },
-        {
-            "date": 1724940400132,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-29-08-20-error.log",
-            "hash": "b012dcc315d5223c6cadc631aae58712d8ab358371b0a748d44823898670f968"
-        },
-        {
-            "date": 1724989316775,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-30-08-09-error.log",
-            "hash": "fe6195684a2396f59528a7cfe4d1c9631f6772bc12831e58b1b25459dcffec28"
-        },
-        {
-            "date": 1725032478019,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-30-08-21-error.log",
-            "hash": "275d2ebffd606b7f9d67b51ac5dcb70aabef00cd9d39ef1416423cf2b652acab"
-        },
-        {
-            "date": 1725100105932,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-31-08-16-error.log",
-            "hash": "6838c41ad3f14fc586f5ce7e9eb4382f96023ca5d6aede5a2030df1a8d1f0d84"
-        },
-        {
-            "date": 1725111695460,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-31-08-19-error.log",
-            "hash": "66814da205256a607b1af6dab9c315e1f9724a1a51cfcc8a603f8bd6d3ba1b8e"
-        },
-        {
-            "date": 1725198573235,
-            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-01-09-19-error.log",
-            "hash": "91f3606032466ee2a3fe5a115f83ded40450632085b52a25433f5736007ea6ae"
-        },
-        {
             "date": 1725250303966,
             "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-02-09-10-error.log",
             "hash": "1b881c35197c56c7783d6030b488f31f234ce250b22fe211aacf33bd3e597e27"
@@ -84,6 +44,76 @@
             "date": 1725680164556,
             "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-07-09-09-error.log",
             "hash": "2382bbdd52cfb04be99a542031721f66c18e8b162647eb91aae51786a8106419"
+        },
+        {
+            "date": 1725715378118,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-07-09-19-error.log",
+            "hash": "ea336e3c41024617b652714dfecab6d7a8d1ba2e5b62fbe255cd1295fc81e278"
+        },
+        {
+            "date": 1725767035917,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-08-09-09-error.log",
+            "hash": "80b69c1b3d44beb49e73dd7a1bf26eb39cd804652812f8b50bfcf4c08f86ce8f"
+        },
+        {
+            "date": 1725805757565,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-08-09-20-error.log",
+            "hash": "594882f54e1a6d1b081fadc3d82e19e179457c49f68da4e0f9036ab8e6bd5430"
+        },
+        {
+            "date": 1725807638654,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-08-09-21-error.log",
+            "hash": "958e1c78e75f90c811029c0d41324f4a518edd9c81ee9d2741e8c4208f0480a5"
+        },
+        {
+            "date": 1725811765422,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-08-09-22-error.log",
+            "hash": "a466e816ec5835dc23d6e5c516497760ae5412c10845c06d25c2001204c96241"
+        },
+        {
+            "date": 1725895034833,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-09-09-21-error.log",
+            "hash": "3d25ec5a452a0f129de0acf4199a648ef418295632d78b0c3cbb15e6bd4f49d3"
+        },
+        {
+            "date": 1726027154040,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-09-09-error.log",
+            "hash": "5da66af1ee58c9707558afb30b54db4a0ea0457a0ff3ebe2050aaa7294690961"
+        },
+        {
+            "date": 1726030283264,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-09-10-error.log",
+            "hash": "d5b457014b82fad1a6d7d7c873f352f97b94b0e6416eefa11e5c8ce94be566e0"
+        },
+        {
+            "date": 1726031294866,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-09-11-error.log",
+            "hash": "f8d5ee95142e6122b089ea9bf003ec7d277d65a5e68c18a5255e67e03281f423"
+        },
+        {
+            "date": 1726040590263,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-09-13-error.log",
+            "hash": "6a460fc75b266235a6870c6fef3956d1107355984e4b33f87562793613e9feaa"
+        },
+        {
+            "date": 1726042138718,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-09-14-error.log",
+            "hash": "523e57d1e4d977300a5b9cf47d7f1b11ed3305b101987ef1193de4d540122021"
+        },
+        {
+            "date": 1726067962673,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-09-21-error.log",
+            "hash": "3205feb6a6cc859588ae44a4649aef43336e7d6b778862d5cfbf2fe21a0ebdf0"
+        },
+        {
+            "date": 1726205425286,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-13-09-11-error.log",
+            "hash": "e8e644f04c9e549882fd0703bf76dfef3e6ce7a829fa70046505d08a88c236be"
+        },
+        {
+            "date": 1726457317608,
+            "name": "C:\\projects\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-16-09-09-error.log",
+            "hash": "bc5d2b12ea8c1b3a4860580d4257b5ec0639a0932a4e3b94373436fffea94a0b"
         }
     ],
     "hashType": "sha256"
